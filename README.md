@@ -40,7 +40,7 @@ Deep Learning (TensorFlow/Keras), Generative AI
 - Visualized key metrics such as runs, strike rate, and batting average  
 - Enabled dynamic filtering for better user-driven insights  
 🔗 Repo: https://github.com/Prasadg2023/EDA-on-ODI-batting-performance-of-players  
-🌐 Live Demo: (https://eda-on-odi-batting-performance-of-players-gpcuhraygw6qffry6n9y.streamlit.app)
+🌐 Live Demo: https://eda-on-odi-batting-performance-of-players-gpcuhraygw6qffry6n9y.streamlit.app
 
 ---
 
@@ -49,7 +49,7 @@ Deep Learning (TensorFlow/Keras), Generative AI
 - Used TF-IDF for feature extraction and Machine Learning algorithms for prediction  
 - Implemented full pipeline: text preprocessing → vectorization → model training  
 - Worked on improving model accuracy and performance  
-🔗 Repo: https://github.com/Prasadg2023/resume-classifier  
+  
 
 ---
 
