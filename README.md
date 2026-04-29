@@ -49,7 +49,7 @@ Deep Learning (TensorFlow/Keras), Generative AI
 - Used TF-IDF for feature extraction and Machine Learning algorithms for prediction  
 - Implemented full pipeline: text preprocessing → vectorization → model training  
 - Worked on improving model accuracy and performance  
-  
+🔗 Repo: https: https://github.com/Prasadg2023/Resume-Classifier-Project
 
 ---
 
