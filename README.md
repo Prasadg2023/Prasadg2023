@@ -50,6 +50,7 @@ Deep Learning (TensorFlow/Keras), Generative AI
 - Implemented full pipeline: text preprocessing → vectorization → model training  
 - Worked on improving model accuracy and performance  
 🔗 Repo: https: https://github.com/Prasadg2023/Resume-Classifier-Project
+
 🌐 Live Demo: https://resume-classifier-project-97wyvwhrkjcpn7jdxcegei.streamlit.app/
 
 ---
