@@ -51,6 +51,7 @@ Deep Learning (TensorFlow/Keras), Generative AI
 - Worked on improving model accuracy and performance  
 🔗 Repo: https: https://github.com/Prasadg2023/Resume-Classifier-Project
 🌐 Live Demo: https://resume-classifier-project-97wyvwhrkjcpn7jdxcegei.streamlit.app/
+
 ---
 
 ### 🧩 Customer Segmentation & Transaction Analysis  
